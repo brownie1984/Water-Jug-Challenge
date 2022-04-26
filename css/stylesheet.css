@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+}
+input, button{
+  width: calc(25% - 10px);
+  margin: 0 5px;
+  padding: 5px;
+  float: left;
+  box-sizing: border-box;
+}
+#inputs{
+  max-width: 650px;
+  margin: auto;
+}
+#resultado{
+  max-width: 650px;
+  margin: auto;
+  clear: both;
+  padding-top: 20px;
+}
+#resultado table{
+  width: 100%;
+}
+#resultado table thead{
+  text-align: left;
+}
